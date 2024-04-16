@@ -3,8 +3,8 @@
 ```javascript
 const majorschwartz = {
     name: {
-        first: "Major",
-        last: "Schwartz", 
+        first: 'Major',
+        last: 'Schwartz', 
         pronouns: 'he/him'
     },
     languages: ['Python', 'HTML', 'CSS', 'JavaScript', 'SQL', 'Java'],
@@ -14,13 +14,13 @@ const majorschwartz = {
         past: 'Web Developer, UTC, May 2022 - Dec 2023'
     },
     education: {
-        uni: "The University of Tennessee at Chattanooga",
-        acronym: "UTC",
-        major: "CPSC Data Science",
-        dates: "Aug 2021 - Present"
+        uni: 'The University of Tennessee at Chattanooga',
+        acronym: 'UTC',
+        major: 'CPSC Data Science',
+        dates: 'Aug 2021 - Present'
     },
-    workingOn: ["GuPiTEER", "EssAI", "Qaiz"],
-    learning: ["Machine Learning", "Neural Networks", "Full-Stack Development"],
+    workingOn: ['GuPiTEER', 'EssAI', 'Qaiz'],
+    learning: ['Machine Learning', 'Neural Networks', 'Full-Stack Development'],
     socials: {
         linkedin: 'https://www.linkedin.com/in/majorschwartz',
         github: 'https://github.com/majorschwartz',
@@ -29,7 +29,7 @@ const majorschwartz = {
 }
 ```
 
-### My GitHub statistics:
+### My GitHub Statistics:
 
 ![](https://streak-stats.demolab.com?user=majorschwartz&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=majorschwartz&layout=compact&theme=transparent&hide_border=true)
