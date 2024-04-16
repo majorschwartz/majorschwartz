@@ -16,12 +16,13 @@ const majorschwartz = {
     education: {
         uni: "The University of Tennessee at Chattanooga",
         acronym: "UTC",
+        major: "CPSC Data Science",
         dates: "Aug 2021 - Present"
     },
     workingOn: ["GuPiTEER", "EssAI", "Qaiz"],
-    learning: ["Machine Learning", "Neural Networks", "Full-stack Development"],
+    learning: ["Machine Learning", "Neural Networks", "Full-Stack Development"],
     socials: {
-        linkedin: 'https://www.linkedin.com/in/majorschwartz/',
+        linkedin: 'https://www.linkedin.com/in/majorschwartz',
         github: 'https://github.com/majorschwartz',
         email: 'me@majorschwartz.com'
     }
