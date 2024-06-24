@@ -27,7 +27,7 @@ const majorschwartz = {
     socials: {
         linkedin: 'https://www.linkedin.com/in/majorschwartz',
         github: 'https://github.com/majorschwartz',
-        website: 'https://majorschwartz.com'
+        website: 'https://majorschwartz.com',
         email: 'me@majorschwartz.com'
     }
 }
