@@ -10,7 +10,7 @@ const majorschwartz = {
     frameworks: ['React.js', 'Svelte', 'Flask', 'FastAPI'],
     libraries: ['NumPy', 'Pandas', 'Scikit-learn', 'PyTorch', 'Matplotlib', 'BeautifulSoup'],
     experience: {
-        current: 'Software Engineer Intern at the Tennessee Valley Authority',
+        current: 'Software Engineer Intern at TVA',
         past: 'Web Developer at UTC'
     },
     education: {
