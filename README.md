@@ -9,19 +9,9 @@ const majorschwartz = {
     languages: ['Python', 'HTML', 'CSS', 'JavaScript', 'SQL', 'Java'],
     frameworks: ['React.js', 'Svelte', 'Flask', 'FastAPI'],
     libraries: ['NumPy', 'Pandas', 'Scikit-learn', 'PyTorch', 'Matplotlib', 'BeautifulSoup'],
-    experience: {
-        current: 'Software Engineer Intern at TVA',
-        past: 'Web Developer at UTC'
-    },
-    education: {
-        uni: 'The University of Tennessee at Chattanooga',
-        acronym: 'UTC',
-        major: 'CPSC Data Science',
-        dates: 'Aug 2021 - Present'
-    },
     workingOn: {
-        title: 'Quizable',
-        url: 'https://quizable.ai'
+        title: 'LIRO',
+        description: 'A video, photo, audio, and blog hosting application with user viewing and admin management (for my family).'
     },
     learning: ['Machine Learning', 'Neural Networks', 'Full-Stack Development'],
     socials: {
