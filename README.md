@@ -11,7 +11,7 @@ const majorschwartz = {
     libraries: ['NumPy', 'Pandas', 'Scikit-learn', 'PyTorch', 'Matplotlib', 'BeautifulSoup'],
     workingOn: {
         title: 'LIRO',
-        description: 'A video, photo, audio, and blog hosting application with user viewing and admin management (for my family).'
+        description: 'A video, photo, audio, and blog hosting application with family viewing and admin management (for my family).'
     },
     learning: ['Machine Learning', 'Neural Networks', 'Full-Stack Development'],
     socials: {
